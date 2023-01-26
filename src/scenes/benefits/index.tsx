@@ -1,8 +1,10 @@
 
 type Props = {}
 
-const Benefits = (props: Props) => {
+const Benifits = (props: Props) => {
   return (
-    <div>Benefits</div>
+    <div>Benifits</div>
   )
 }
+
+export default Benifits

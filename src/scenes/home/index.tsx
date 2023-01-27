@@ -44,9 +44,9 @@ const Home = ({ setSelectedPage }: Props) => {
             </div>
 
             <p className="mt-8 text-sm">
-              Unrivaled Gym. Unparalleled Training Fitness Classes. World Class
-              Studios to get the Body Shapes That you Dream of.. Get Your Dream
-              Body Now.
+            Welcome to Farouk's Gym! We are a state-of-the-art fitness facility dedicated to helping you achieve your health
+             and fitness goals. Our knowledgeable and experienced staff are here to provide you with the support and guidance
+              you need to make the most of your workouts.
             </p>
           </motion.div>
 

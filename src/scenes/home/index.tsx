@@ -38,12 +38,12 @@ const Home = ({ setSelectedPage }: Props) => {
             }}
           >
             <div className="relative">
-              <div className="before:absolute before:-top-20 before:-left-20 before:z-[-1] md:before:content-evolvetext">
+              <div >
                 <img alt="home-page-text" src={HomePageText} />
               </div>
             </div>
 
-            <p className="mt-8 text-sm">
+            <p className="mt-8 text-sm text-justify">
             Welcome to Farouk's Gym! We are a state-of-the-art fitness facility dedicated to helping you achieve your health
              and fitness goals. Our knowledgeable and experienced staff are here to provide you with the support and guidance
               you need to make the most of your workouts.

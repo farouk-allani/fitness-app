@@ -112,7 +112,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
                   }}
                 >
                   <HText>
-                    MILLIONS OF HAPPY MEMBERS GETTING{" "}
+                    HUNDREDS OF HAPPY MEMBERS GETTING{" "}
                     <span className="text-primary-500">FIT</span>
                   </HText>
                 </motion.div>
@@ -131,18 +131,19 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+              At Farouk's Gym, we take pride in the fact that we have helped hundreds of members
+               achieve their fitness goals. Whether you are looking to lose weight, build muscle,
+                or simply improve your overall health and well-being, our state-of-the-art facilities,
+                 knowledgeable staff, and wide range of equipment and classes are designed to help you
+                  achieve your goals.
+Our members come from all walks of life and have different fitness levels, but they all have one thing in
+ common: they are committed to getting fit and healthy. We have seen firsthand the incredible transformations
+  that happen when people put in the hard work and dedication to their health and fitness.
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+              So if you are ready to join the hundreds of happy members at Farouk's Gym and take control of your
+               health and fitness, then come and visit us today. We look forward to helping you achieve your goals
+                and become the best version of yourself!
               </p>
             </motion.div>
 

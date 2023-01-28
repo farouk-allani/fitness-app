@@ -130,7 +130,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
                 visible: { opacity: 1, x: 0 },
               }}
             >
-              <p className="my-5">
+              <p className="my-5 text-justify">
               At Farouk's Gym, we take pride in the fact that we have helped hundreds of members
                achieve their fitness goals. Whether you are looking to lose weight, build muscle,
                 or simply improve your overall health and well-being, our state-of-the-art facilities,
@@ -140,7 +140,7 @@ Our members come from all walks of life and have different fitness levels, but t
  common: they are committed to getting fit and healthy. We have seen firsthand the incredible transformations
   that happen when people put in the hard work and dedication to their health and fitness.
               </p>
-              <p className="mb-5">
+              <p className="mb-5 text-justify">
               So if you are ready to join the hundreds of happy members at Farouk's Gym and take control of your
                health and fitness, then come and visit us today. We look forward to helping you achieve your goals
                 and become the best version of yourself!

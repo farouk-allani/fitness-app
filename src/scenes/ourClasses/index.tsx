@@ -12,24 +12,23 @@ import Class from "./Class";
 const classes: Array<ClassType> = [
   {
     name: "Weight Training Classes",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    description:"classes that focus on using weights, resistance bands, and other equipment to build muscle strength and tone. These classes typically include exercises such as squats, deadlifts, bench press, rows, and other compound exercises that target multiple muscle groups at once. ",
     image: image1,
   },
   {
-    name: "Yoga Classes",
+    name: "BODYATTACK Classes",
     image: image2,
   },
   {
     name: "Ab Core Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      " focuses specifically on exercises for the abdominal muscles. These classes may include a variety of exercises such as crunches, sit-ups, and planks to target the rectus abdominis, transverse abdominis, and obliques.",
     image: image3,
   },
   {
-    name: "Adventure Classes",
+    name: "GRIT Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Providing direct instruction and guidance on proper technique and form for various exercises.",
     image: image4,
   },
   {
@@ -38,8 +37,7 @@ const classes: Array<ClassType> = [
   },
   {
     name: "Training Classes",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    
     image: image6,
   },
 ];
@@ -68,10 +66,7 @@ const OurClasses = ({ setSelectedPage }: Props) => {
           <div className="md:w-3/5">
             <HText>OUR CLASSES</HText>
             <p className="py-5">
-              Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-              tellus quam porttitor. Mauris velit euismod elementum arcu neque
-              facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-              enim mattis odio in risus nunc.
+              we offer a wide range of classes to suit your needs.
             </p>
           </div>
         </motion.div>

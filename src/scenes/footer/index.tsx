@@ -17,9 +17,9 @@ const Footer = () => {
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Links</h4>
-          <a className="my-5" href="https://faroukallani.tn">farouk allani Portfolio</a> <br />
-          <a className="my-5" href="https://lostandfound.faroukallani.tn/">Lost and Found App</a> <br />
-          <a className="my-5" href="https://olc.faroukallani.tn/">Open Learning Community Platform</a> <br />
+          <a className="my-5 hover:text-primary-300" href="https://faroukallani.tn">farouk allani Portfolio</a> <br />
+          <a className="my-5 hover:text-primary-300" href="https://lostandfound.faroukallani.tn/">Lost and Found App</a> <br />
+          <a className="my-5 hover:text-primary-300" href="https://olc.faroukallani.tn/">Open Learning Community Platform</a> <br />
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Contact Us</h4>

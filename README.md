@@ -35,6 +35,7 @@ npm run dev
 - Framer Motion
 - Form Submit
 - React Anchor Link Smooth Scroll
+
 ### Author
 Farouk Allani
 

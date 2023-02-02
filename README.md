@@ -37,3 +37,7 @@ npm run dev
 - React Anchor Link Smooth Scroll
 ### Author
 Farouk Allani
+
+### Conclusion
+
+This is a personal project for my portfolio.
